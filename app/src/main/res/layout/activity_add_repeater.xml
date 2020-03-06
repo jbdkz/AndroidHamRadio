@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".AddEditRepeaterActivity">
+
+    <EditText
+        android:id="@+id/edit_text_call"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_call"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_state"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_county"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_county"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_location"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_inputfreq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_inputfreq"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_outputfreq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_outputfreq"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_uplinktone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_uplinktone"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_downlinktone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_downlinktone"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_offset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_offset"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edit_text_use"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_text_use"
+        android:inputType="text" />
+
+</LinearLayout>

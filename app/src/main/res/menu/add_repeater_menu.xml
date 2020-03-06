@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/save_repeater"
+        android:icon="@drawable/ic_save"
+        android:title="@string/save_repeater"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/update_pref"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/update_pref"
+        app:showAsAction="ifRoom" />
+
+</menu>

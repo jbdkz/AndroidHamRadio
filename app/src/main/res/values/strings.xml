@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Repeater App</string>
+    <string name="delete_all_repeaters">Delete All Repeaters</string>
+    <string name="call_sign_font_color">Call Sign Font Color:</string>
+    <string name="call_param_font_color">Parameters Font Color:</string>
+    <string name="save_font_color_pref">Save Font Color Preferences</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dialog_delete_all_message">Delete all Repeaters?</string>
+    <string name="dialog_delete_message">Delete Repeater?</string>
+    <string name="btn_delete_all">Delete</string>
+    <string name="edit_text_call">Call Sign</string>
+    <string name="edit_text_state">State</string>
+    <string name="edit_text_county">County</string>
+    <string name="edit_text_location">City</string>
+    <string name="edit_text_inputfreq">Input Frequency</string>
+    <string name="edit_text_outputfreq">Output Frequency</string>
+    <string name="edit_text_uplinktone">Uplink Tone</string>
+    <string name="edit_text_downlinktone">Downlink Tone</string>
+    <string name="edit_text_offset">Offset</string>
+    <string name="edit_text_use">Use</string>
+    <string name="text_view_state">1</string>
+    <string name="text_view_call">Title</string>
+    <string name="text_view_location">Description</string>
+    <string name="save_repeater">Save</string>
+    <string name="update_pref">Preferences</string>
+    <string-array name="colors">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Magenta</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
